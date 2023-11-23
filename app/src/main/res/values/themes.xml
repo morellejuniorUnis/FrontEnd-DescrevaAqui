@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Theme.DescrevaAqui" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/backgroudicon</item>
+    </style>
+
+</resources>
